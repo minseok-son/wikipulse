@@ -1,0 +1,15 @@
+# Local data
+local_bronze/
+local_silver/
+local_gold/
+
+# Spark output
+*.parquet
+_SUCCESS
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
